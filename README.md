@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Ganesh Chettri!  
+### 🚀 Aspiring Developer | Hardware & Networking Enthusiast  
 
-<!--
-**GaneshChettri2025/GaneshChettri2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about coding, problem-solving, and building innovative digital solutions.  
+🌱 Currently learning **React, Next.js, and Three.js**  
+🔧 Love exploring **hardware and networking technologies** alongside software development.  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack:
+- **Languages:** JavaScript, Python, C++  
+- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Networking & Hardware:** Configuring networks, troubleshooting hardware, optimizing system performance  
+- **Tools:** Git, GitHub, VS Code, Figma  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📡 Networking & Hardware Interests:
+- Setting up **secure and optimized networks**  
+- Exploring **computer hardware components** and system architecture  
+- Enthusiastic about **cybersecurity and ethical hacking**  
+ 
+
+⭐ **Fun Fact:** I love experimenting with animations
